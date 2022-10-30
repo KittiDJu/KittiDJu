@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning
+- ⚛️ I’m currently learning ReactNavie
+- 📱 I’m currently working on ReactNavie Project : Healthcare
+- 🤔 Fun fact: I'm Gamer
 <!--
 **KittiDJu/KittiDJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
