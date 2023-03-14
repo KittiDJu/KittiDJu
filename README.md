@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔙 I’m currently learning Expressjs.
+- 🔙 I’m currently learning Express-js.
 - ⚙️ I’m currently working on Web Scrapping Project.
 - 🔭 I’m usually interested in astronomy.
 - 🎮 Fun fact: I'm League of Legends Player.
