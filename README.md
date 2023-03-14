@@ -1,7 +1,8 @@
 ### Hi there 👋
-- ⚛️ I’m currently learning ReactNavie
-- 📱 I’m currently working on ReactNavie Project : Healthcare
-- 🤔 Fun fact: I'm Gamer
+- 🔙 I’m currently learning Expressjs.
+- ⚙️ I’m currently working on Web Scrapping Project.
+- 🔭 I’m usually interested in astronomy.
+- 🎮 Fun fact: I'm League of Legends Player.
 <!--
 **KittiDJu/KittiDJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
