@@ -6,8 +6,9 @@
 - 🧑🏻‍🔬[WU Researcher](https://wu-researcher.web.app/)
 ## MySkill
 ### Use to it
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,express,nodejs,react)](https://skillicons.dev)
-
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,express,nodejs,react,python)](https://skillicons.dev)
+### Not Bad
+  [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 <!--
 **KittiDJu/KittiDJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
