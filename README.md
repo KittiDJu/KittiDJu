@@ -3,7 +3,7 @@
   🔙 I’m currently learning Express-js.
   ⚙️ I’m currently working on Web Scrapping Project.
 ### My Project
-  [WU Researcher](https://wu-researcher.web.app/).
+  🧑🏻‍🔬[WU Researcher](https://wu-researcher.web.app/)
 
 <!--
 **KittiDJu/KittiDJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
