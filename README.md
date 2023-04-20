@@ -1,13 +1,13 @@
 ### Hi there 👋
+## Nowaday
 - 🔙 I’m currently learning Express-js.
 - ⚙️ I’m currently working on Web Scrapping Project.
-- 🔭 I’m usually interested in astronomy.
-- 🎮 Fun fact: I'm League of Legends Player.
+## My Project
 <!--
 **KittiDJu/KittiDJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+## Nowaday
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
