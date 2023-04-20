@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Kittiphon Julapak
 ## Nowaday
-- 🔙 I’m currently learning Express-js.
+- 🌐 I'm studying to become a Fullstack Developer.
 - ⚙️ I’m currently working on Web Scrapping Project.
 ## My Project
 - 🧑🏻‍🔬[WU Researcher](https://wu-researcher.web.app/)
 ## MySkill
-### Use to it <br>
+### Use to it
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,express,nodejs,react)](https://skillicons.dev)
 
 
