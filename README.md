@@ -6,7 +6,7 @@
 - 🧑🏻‍🔬[WU Researcher](https://wu-researcher.web.app/)
 ## MySkill
 ### Use to it
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,express,nodejs,postman,mongoDB,python,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,express,nodejs,postman,mongodb,python,github)](https://skillicons.dev)
 ### Not Bad
   [![My Skills](https://skillicons.dev/icons?i=react,c,git,mysql,php,regex,raspberrypi,arduino)](https://skillicons.dev)
 ### Need Practice
