@@ -11,6 +11,10 @@
   [![My Skills](https://skillicons.dev/icons?i=react,c,git,mysql,php,regex,raspberrypi,arduino)](https://skillicons.dev)
 ### Need Practice
   [![My Skills](https://skillicons.dev/icons?i=java,ts)](https://skillicons.dev)
+.
+.
+.
+.
 <br>*P.S.If i don't practice any of them often, they're all in the practice category.😭*
 <!--
 **KittiDJu/KittiDJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
