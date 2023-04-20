@@ -1,8 +1,8 @@
-### Hi there 👋
-## Nowaday
+## Hi there 👋
+### Nowaday
 - 🔙 I’m currently learning Express-js.
 - ⚙️ I’m currently working on Web Scrapping Project.
-## My Project
+### My Project
 <!--
 **KittiDJu/KittiDJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
