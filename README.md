@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Nowaday
-  🔙 I’m currently learning Express-js.
-  ⚙️ I’m currently working on Web Scrapping Project.
+-🔙 I’m currently learning Express-js.
+-⚙️ I’m currently working on Web Scrapping Project.
 ### My Project
   🧑🏻‍🔬[WU Researcher](https://wu-researcher.web.app/)
 
