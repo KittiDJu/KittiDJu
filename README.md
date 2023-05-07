@@ -3,8 +3,11 @@
 - 🌐 I'm studying to become a Fullstack Developer.
 - ⚙️ I’m currently working on Web Scrapping Project.
 ## My Project
-- 🧑🏻‍🔬[WU Researcher](https://wu-researcher.web.app/)
+- 🧑🏻‍🔬[WU Researcher](https://wu-researcher.web.app/) (continue...)
+- 🏨[AvocadoHotel](https://github.com/KittiDJu/AvocadoHotel)
+- 🛒[AnyWhereKeyStore](https://github.com/KittiDJu/AnyWhereKeyStore_BackEnd)
 - 🦠[CovidAPIReport](https://covid19-api-liart.vercel.app/)
+- 🖩[calculator](https://calculator-kittidju.vercel.app/)
 ## MySkill
 ### Use to it
   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,express,nodejs,postman,mongodb,python,github)](https://skillicons.dev)
