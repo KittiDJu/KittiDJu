@@ -14,7 +14,7 @@
 ### Not Bad
   [![My Skills](https://skillicons.dev/icons?i=react,c,git,mysql,php,regex,raspberrypi,arduino)](https://skillicons.dev)
 ### Need Practice
-  [![My Skills](https://skillicons.dev/icons?i=java,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,ts,go,flask)](https://skillicons.dev)
 <details>
   <summary>.</summary>
   
