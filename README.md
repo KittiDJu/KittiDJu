@@ -7,7 +7,7 @@
 - 🏨[AvocadoHotel](https://github.com/KittiDJu/AvocadoHotel)
 - 🛒[AnyWhereKeyStore](https://github.com/KittiDJu/AnyWhereKeyStore_BackEnd)
 - 🦠[CovidAPIReport](https://covid19-api-liart.vercel.app/)
-- 🖩[calculator](https://calculator-kittidju.vercel.app/)
+- 🖩 [Calculator](https://calculator-kittidju.vercel.app/)
 ## MySkill
 ### Use to it
   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,express,nodejs,postman,mongodb,python,github)](https://skillicons.dev)
