@@ -1,7 +1,4 @@
 ## Hi there 👋 I'm Kittiphon Julapak
-## Nowaday
-- 🌐 I'm studying to become a Fullstack Developer.
-- ⚙️ I’m currently working on Web Scrapping Project.
 ## My Project
 - 🧑🏻‍🔬[WU Researcher](https://wu-researcher.web.app/)
 - 📱[HealthCareApplication](https://github.com/KittiDJu/HealthCareApplicationMobileBack-End)
